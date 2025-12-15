@@ -1,0 +1,27 @@
+{
+  "type": "class",
+  "faction": "good",
+  "flags": 0,
+  "class": "adventurer",
+  "abilities": [
+    "ability.adventurer.0",
+    "ability.adventurer.1",
+    "ability.adventurer.2",
+    "ability.adventurer.3"
+  ],
+  "physics": {
+    "dynamic": true,
+    "max_vel": [230.0, 230.0],
+    "acc": [6000.0, 6000.0],
+    "dec": [6000.0, 6000.0],
+    "collider": {
+      "shape": "aabb",
+      "center": [0.0, 0.0],
+      "half_extents": [8.0, 3.0]
+    }
+  },
+  "anim_set": "animset.adventurer",
+  "start_anim": "idle",
+  "sound_bank": "soundbank.adventurer",
+  "collider_profile": "colprofile.adventurer"
+}

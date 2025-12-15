@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Asset Pipeline",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "rlres.asset_pipeline",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "args": ["--src", "../assets", "--out", "../build/resources"],
+      "justMyCode": true,
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
+    }
+  ]
+}

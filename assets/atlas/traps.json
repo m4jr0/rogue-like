@@ -1,0 +1,41 @@
+{
+  "id": "traps",
+  "texture": "interactive",
+  "sprites": [
+    {
+      "name": "peaks_front_000",
+      "rect": [0, 0, 16, 16],
+      "source_size": [16, 16],
+      "offset": [0.5, 0.5],
+      "offset_flipped": [0.5, 0.5]
+    },
+    {
+      "name": "peaks_front_001",
+      "rect": [16, 0, 16, 16],
+      "source_size": [16, 16],
+      "offset": [0.5, 0.5],
+      "offset_flipped": [0.5, 0.5]
+    },
+    {
+      "name": "peaks_front_002",
+      "rect": [32, 0, 16, 16],
+      "source_size": [16, 16],
+      "offset": [0.5, 0.5],
+      "offset_flipped": [0.5, 0.5]
+    },
+    {
+      "name": "peaks_front_003",
+      "rect": [48, 0, 16, 16],
+      "source_size": [16, 16],
+      "offset": [0.5, 0.5],
+      "offset_flipped": [0.5, 0.5]
+    },
+    {
+      "name": "peaks_front_004",
+      "rect": [64, 0, 16, 16],
+      "source_size": [16, 16],
+      "offset": [0.5, 0.5],
+      "offset_flipped": [0.5, 0.5]
+    }
+  ]
+}

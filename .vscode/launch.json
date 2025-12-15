@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        // Unix ////////////////////////////////////////////////////////////////
+        {
+            "name": "Rogue Like (build) [Unix]",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/rogue_like",
+            "cwd": "${workspaceFolder}/build/",
+            "preLaunchTask": "cmake_build",
+            "externalConsole": true,
+            "visualizerFile": "${workspaceFolder}/natvis/core_types.natvis"
+        },
+        {
+            "name": "Rogue Like (clean + build) [Unix]",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/rogue_like",
+            "cwd": "${workspaceFolder}/build/",
+            "preLaunchTask": "cleanbuild",
+            "externalConsole": true,
+            "visualizerFile": "${workspaceFolder}/natvis/core_types.natvis"
+        },
+        {
+            "name": "Rogue Like (no build) [Unix]",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/rogue_like",
+            "cwd": "${workspaceFolder}/build/",
+            "externalConsole": true,
+            "visualizerFile": "${workspaceFolder}/natvis/core_types.natvis"
+        },
+        // Windows /////////////////////////////////////////////////////////////
+        {
+            "name": "Rogue Like (build) [Windows]",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/rogue_like.exe",
+            "cwd": "${workspaceFolder}/build/",
+            "preLaunchTask": "cmake_build",
+            "externalConsole": true,
+            "visualizerFile": "${workspaceFolder}/natvis/core_types.natvis"
+        },
+        {
+            "name": "Rogue Like (clean + build) [Windows]",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/rogue_like.exe",
+            "cwd": "${workspaceFolder}/build/",
+            "preLaunchTask": "cleanbuild",
+            "externalConsole": true,
+            "visualizerFile": "${workspaceFolder}/natvis/core_types.natvis"
+        },
+        {
+            "name": "Rogue Like (no build) [Windows]",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/rogue_like.exe",
+            "cwd": "${workspaceFolder}/build/",
+            "externalConsole": true,
+            "visualizerFile": "${workspaceFolder}/natvis/core_types.natvis"
+        }
+    ]
+}

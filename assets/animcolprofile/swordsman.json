@@ -1,0 +1,2768 @@
+{
+  "anim_set": "atlas.swordsman",
+  "per_anim": [
+    {
+      "name": "idle_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "walk_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack0_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                5.0,
+                -2.5
+              ],
+              "half_extents": [
+                15.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                5.0,
+                -2.5
+              ],
+              "half_extents": [
+                15.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -7.0,
+                -2.5
+              ],
+              "half_extents": [
+                3.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                8.5,
+                0.0
+              ],
+              "half_extents": [
+                15.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                8.5,
+                0.0
+              ],
+              "half_extents": [
+                15.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -4.5,
+                0.0
+              ],
+              "half_extents": [
+                2.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                17.5,
+                4.5
+              ],
+              "half_extents": [
+                9.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                20.0,
+                4.5
+              ],
+              "half_extents": [
+                6.0,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -2.5,
+                3.5
+              ],
+              "half_extents": [
+                1.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                24.0,
+                9.5
+              ],
+              "half_extents": [
+                7.0,
+                3.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                27.5,
+                7.5
+              ],
+              "half_extents": [
+                2.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -5.5,
+                3.5
+              ],
+              "half_extents": [
+                1.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack1_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                12.0
+              ],
+              "half_extents": [
+                10.5,
+                4.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.0,
+                16.5
+              ],
+              "half_extents": [
+                3.0,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                11.5,
+                12.5
+              ],
+              "half_extents": [
+                3.5,
+                3.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                16.0,
+                0.5
+              ],
+              "half_extents": [
+                10.0,
+                6.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                16.0,
+                1.0
+              ],
+              "half_extents": [
+                10.0,
+                6.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                24.5,
+                -2.5
+              ],
+              "half_extents": [
+                1.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                21.0,
+                5.5
+              ],
+              "half_extents": [
+                12.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                21.5,
+                5.5
+              ],
+              "half_extents": [
+                12.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                21.0,
+                17.5
+              ],
+              "half_extents": [
+                8.0,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                29.5,
+                10.0
+              ],
+              "half_extents": [
+                2.5,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                15.0,
+                15.0
+              ],
+              "half_extents": [
+                3.0,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                21.0,
+                5.5
+              ],
+              "half_extents": [
+                9.0,
+                6.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                22.0,
+                5.5
+              ],
+              "half_extents": [
+                10.0,
+                6.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                37.5,
+                10.5
+              ],
+              "half_extents": [
+                1.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                25.5,
+                7.5
+              ],
+              "half_extents": [
+                7.5,
+                0.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                30.5,
+                5.5
+              ],
+              "half_extents": [
+                5.5,
+                5.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                20.5,
+                5.5
+              ],
+              "half_extents": [
+                4.5,
+                4.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                13.0,
+                15.0
+              ],
+              "half_extents": [
+                3.0,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                16.5
+              ],
+              "half_extents": [
+                2.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                25.5,
+                -0.5
+              ],
+              "half_extents": [
+                2.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -2.0,
+                -2.0
+              ],
+              "half_extents": [
+                8.0,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -8.5,
+                -2.5
+              ],
+              "half_extents": [
+                2.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                31.5,
+                6.5
+              ],
+              "half_extents": [
+                6.5,
+                6.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                13.5,
+                0.5
+              ],
+              "half_extents": [
+                3.5,
+                3.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                31.5,
+                11.5
+              ],
+              "half_extents": [
+                1.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                31.5,
+                4.5
+              ],
+              "half_extents": [
+                3.5,
+                3.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                32.5,
+                6.5
+              ],
+              "half_extents": [
+                3.5,
+                3.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -4.5,
+                -1.5
+              ],
+              "half_extents": [
+                2.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                9.5,
+                -3.5
+              ],
+              "half_extents": [
+                2.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                9.0,
+                12.0
+              ],
+              "half_extents": [
+                3.0,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                36.0,
+                9.0
+              ],
+              "half_extents": [
+                3.0,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                36.0,
+                9.0
+              ],
+              "half_extents": [
+                3.0,
+                3.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack2_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -0.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                2.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                2.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                2.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                -1.0
+              ],
+              "half_extents": [
+                5.5,
+                2.0
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                11.0
+              ],
+              "half_extents": [
+                10.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                19.0,
+                10.5
+              ],
+              "half_extents": [
+                10.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                27.5,
+                10.5
+              ],
+              "half_extents": [
+                8.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                29.5,
+                11.0
+              ],
+              "half_extents": [
+                5.5,
+                1.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                19.5,
+                11.0
+              ],
+              "half_extents": [
+                11.5,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                26.0,
+                10.0
+              ],
+              "half_extents": [
+                11.0,
+                2.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                28.0,
+                9.5
+              ],
+              "half_extents": [
+                4.0,
+                0.5
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                16.0,
+                5.5
+              ],
+              "half_extents": [
+                6.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                15.0,
+                2.5
+              ],
+              "half_extents": [
+                6.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                17.0,
+                7.5
+              ],
+              "half_extents": [
+                6.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                21.5,
+                5.5
+              ],
+              "half_extents": [
+                7.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                21.5,
+                1.5
+              ],
+              "half_extents": [
+                12.5,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.0,
+                11.5
+              ],
+              "half_extents": [
+                6.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                20.0,
+                5.5
+              ],
+              "half_extents": [
+                6.0,
+                1.5
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                16.5,
+                1.5
+              ],
+              "half_extents": [
+                2.5,
+                0.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                27.5,
+                5.5
+              ],
+              "half_extents": [
+                2.5,
+                0.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                11.0,
+                0.5
+              ],
+              "half_extents": [
+                1.0,
+                0.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                17.0,
+                5.5
+              ],
+              "half_extents": [
+                4.0,
+                0.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                17.0,
+                0.5
+              ],
+              "half_extents": [
+                3.0,
+                0.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                11.5,
+                2.5
+              ],
+              "half_extents": [
+                1.5,
+                0.5
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                0.5
+              ],
+              "half_extents": [
+                13.5,
+                2.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                28.0,
+                0.5
+              ],
+              "half_extents": [
+                12.0,
+                1.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                23.5,
+                3.0
+              ],
+              "half_extents": [
+                8.5,
+                2.0
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "hurt_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "dead_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ],
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}

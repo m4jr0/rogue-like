@@ -1,0 +1,7 @@
+{
+  "move_scale": 0.6,
+  "ground_damping": 1,
+  "friction": 0.25,
+  "restitution": 0,
+  "air_drag": 0
+}

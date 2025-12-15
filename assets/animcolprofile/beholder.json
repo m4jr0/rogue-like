@@ -1,0 +1,3877 @@
+{
+  "anim_set": "atlas.beholder",
+  "per_anim": [
+    {
+      "name": "idle_front",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "idle_left",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "idle_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "idle_back",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "walk_front",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "walk_left",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "walk_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "walk_back",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "run_front",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "run_left",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "run_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "run_back",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack0_front",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.5,
+                2.5
+              ],
+              "half_extents": [
+                5.5,
+                5.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.0,
+                4.0
+              ],
+              "half_extents": [
+                10.0,
+                10.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                5.0
+              ],
+              "half_extents": [
+                13.0,
+                13.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -1.0,
+                6.0
+              ],
+              "half_extents": [
+                14.0,
+                14.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack0_left",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -17.5,
+                2.5
+              ],
+              "half_extents": [
+                4.5,
+                5.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -18.0,
+                5.0
+              ],
+              "half_extents": [
+                9.0,
+                9.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -17.5,
+                4.5
+              ],
+              "half_extents": [
+                10.5,
+                10.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                -16.5,
+                6.5
+              ],
+              "half_extents": [
+                10.5,
+                10.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack0_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                3.5
+              ],
+              "half_extents": [
+                4.5,
+                5.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                19.0,
+                5.0
+              ],
+              "half_extents": [
+                9.0,
+                9.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                5.5
+              ],
+              "half_extents": [
+                10.5,
+                10.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                18.5,
+                5.5
+              ],
+              "half_extents": [
+                10.5,
+                10.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "attack0_back",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                0.5
+              ],
+              "half_extents": [
+                16.0,
+                7.5
+              ]
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                2.5
+              ],
+              "half_extents": [
+                4.5,
+                4.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.5,
+                2.5
+              ],
+              "half_extents": [
+                7.5,
+                6.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                0.0,
+                3.5
+              ],
+              "half_extents": [
+                11.0,
+                10.5
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "aabb",
+              "center": [
+                1.0,
+                6.0
+              ],
+              "half_extents": [
+                14.0,
+                13.0
+              ]
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "hurt_front",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "hurt_left",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "hurt_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "hurt_back",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "dead_front",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "dead_left",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "dead_right",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "name": "dead_back",
+      "hurts": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ],
+      "hits": [
+        [
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          },
+          {
+            "collider": {
+              "shape": "unknown"
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}

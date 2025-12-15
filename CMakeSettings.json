@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "buildRoot": "${projectDir}\\build",
+      "cmakeCommandArgs": "-DCMAKE_BUILD_TYPE=Debug",
+      "cmakeExecutable": "C:\\Program Files\\CMake\\bin\\cmake.exe",
+      "configurationType": "Debug",
+      "generator": "Visual Studio 17 2022 Win64",
+      "inheritEnvironments": [ "msvc_x64" ],
+      "name": "rogue_like_x64-Debug"
+    },
+    {
+      "buildRoot": "${projectDir}\\build",
+      "cmakeCommandArgs": "-DCMAKE_BUILD_TYPE=Release -DCS_DEBUG_RELEASE=OFF",
+      "cmakeExecutable": "C:\\Program Files\\CMake\\bin\\cmake.exe",
+      "configurationType": "Release",
+      "generator": "Visual Studio 17 2022 Win64",
+      "inheritEnvironments": [ "msvc_x64" ],
+      "name": "rogue_like_x64-Release"
+    },
+    {
+      "buildRoot": "${projectDir}\\build",
+      "cmakeCommandArgs": "-DCMAKE_BUILD_TYPE=Release -DCS_DEBUG_RELEASE=ON",
+      "cmakeExecutable": "C:\\Program Files\\CMake\\bin\\cmake.exe",
+      "configurationType": "RelWithDebInfo",
+      "generator": "Visual Studio 17 2022 Win64",
+      "inheritEnvironments": [ "msvc_x64" ],
+      "name": "rogue_like_x64-Debug-Release"
+    }
+  ]
+}

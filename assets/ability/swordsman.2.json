@@ -1,0 +1,25 @@
+{
+  "cost": {
+    "stamina": 10,
+    "mana": 0
+  },
+  "flags": [
+    "lock_movement"
+  ],
+  "onBegin": [
+    {
+      "op": "play_anim",
+      "params": [
+        "anim.attack2"
+      ]
+    },
+    {
+      "op": "wait_anim",
+      "params": [
+        "anim.attack2"
+      ]
+    }
+  ],
+  "onTick": [],
+  "onEnd": []
+}

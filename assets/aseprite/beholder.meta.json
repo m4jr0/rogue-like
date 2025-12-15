@@ -1,0 +1,200 @@
+{
+  "id": "adventurer",
+  "texture": "adventurer",
+  "default_anim": "idle_front",
+  "anims": [
+    {
+      "name": "idle_front",
+      "anim_tag": "idle",
+      "dir": "front",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "idle_left",
+      "anim_tag": "idle",
+      "dir": "left",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "idle_right",
+      "anim_tag": "idle",
+      "dir": "right",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "idle_back",
+      "anim_tag": "idle",
+      "dir": "back",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "walk_front",
+      "anim_tag": "walk",
+      "dir": "front",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "walk_left",
+      "anim_tag": "walk",
+      "dir": "left",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "walk_right",
+      "anim_tag": "walk",
+      "dir": "right",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "walk_back",
+      "anim_tag": "walk",
+      "dir": "back",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "run_front",
+      "anim_tag": "run",
+      "dir": "front",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "run_left",
+      "anim_tag": "run",
+      "dir": "left",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "run_right",
+      "anim_tag": "run",
+      "dir": "right",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "run_back",
+      "anim_tag": "run",
+      "dir": "back",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "dash_front",
+      "anim_tag": "dash",
+      "dir": "front",
+      "flags": []
+    },
+    {
+      "name": "dash_left",
+      "anim_tag": "dash",
+      "dir": "left",
+      "flags": []
+    },
+    {
+      "name": "dash_right",
+      "anim_tag": "dash",
+      "dir": "right",
+      "flags": []
+    },
+    {
+      "name": "dash_back",
+      "anim_tag": "dash",
+      "dir": "back",
+      "flags": []
+    },
+    {
+      "name": "attack0_front",
+      "anim_tag": "attack0",
+      "dir": "front",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "attack0_left",
+      "anim_tag": "attack0",
+      "dir": "left",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "attack0_right",
+      "anim_tag": "attack0",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "attack0_back",
+      "anim_tag": "attack0",
+      "dir": "back",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "hurt_front",
+      "anim_tag": "hurt",
+      "dir": "front",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "hurt_left",
+      "anim_tag": "hurt",
+      "dir": "left",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "hurt_right",
+      "anim_tag": "hurt",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "hurt_back",
+      "anim_tag": "hurt",
+      "dir": "back",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "dead_front",
+      "anim_tag": "dead",
+      "dir": "front",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "dead_left",
+      "anim_tag": "dead",
+      "dir": "left",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "dead_right",
+      "anim_tag": "dead",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "dead_back",
+      "anim_tag": "dead",
+      "dir": "back",
+      "flags": [],
+      "events": []
+    }
+  ],
+  "solved": []
+}

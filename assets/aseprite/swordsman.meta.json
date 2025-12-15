@@ -1,0 +1,163 @@
+{
+  "id": "swordsman",
+  "texture": "swordsman",
+  "default_anim": "idle_right",
+  "anims": [
+    {
+      "name": "idle_right",
+      "anim_tag": "idle",
+      "dir": "right",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "walk_right",
+      "anim_tag": "walk",
+      "dir": "right",
+      "flags": ["loop"],
+      "events": []
+    },
+    {
+      "name": "attack0_right",
+      "anim_tag": "attack0",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "attack1_right",
+      "anim_tag": "attack1",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "attack2_right",
+      "anim_tag": "attack2",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "hurt_right",
+      "anim_tag": "hurt",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    },
+    {
+      "name": "dead_right",
+      "anim_tag": "dead",
+      "dir": "right",
+      "flags": [],
+      "events": []
+    }
+  ],
+  "solved": [
+    {
+      "from": { "anim_tag": "idle", "dir": "left" },
+      "to": { "anim_tag": "idle", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "idle", "dir": "front" },
+      "to": { "anim_tag": "idle", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "idle", "dir": "back" },
+      "to": { "anim_tag": "idle", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "walk", "dir": "left" },
+      "to": { "anim_tag": "walk", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "walk", "dir": "front" },
+      "to": { "anim_tag": "walk", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "walk", "dir": "back" },
+      "to": { "anim_tag": "walk", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "attack0", "dir": "left" },
+      "to": { "anim_tag": "attack0", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "attack0", "dir": "front" },
+      "to": { "anim_tag": "attack0", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "attack0", "dir": "back" },
+      "to": { "anim_tag": "attack0", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "attack1", "dir": "left" },
+      "to": { "anim_tag": "attack1", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "attack1", "dir": "front" },
+      "to": { "anim_tag": "attack1", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "attack1", "dir": "back" },
+      "to": { "anim_tag": "attack1", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "attack2", "dir": "left" },
+      "to": { "anim_tag": "attack2", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "attack2", "dir": "front" },
+      "to": { "anim_tag": "attack2", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "attack2", "dir": "back" },
+      "to": { "anim_tag": "attack2", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "hurt", "dir": "left" },
+      "to": { "anim_tag": "hurt", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "hurt", "dir": "front" },
+      "to": { "anim_tag": "hurt", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "hurt", "dir": "back" },
+      "to": { "anim_tag": "hurt", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "dead", "dir": "left" },
+      "to": { "anim_tag": "dead", "dir": "right" },
+      "flip_policy": "flip"
+    },
+    {
+      "from": { "anim_tag": "dead", "dir": "front" },
+      "to": { "anim_tag": "dead", "dir": "right" },
+      "flip_policy": "keep"
+    },
+    {
+      "from": { "anim_tag": "dead", "dir": "back" },
+      "to": { "anim_tag": "dead", "dir": "right" },
+      "flip_policy": "keep"
+    }
+  ]
+}

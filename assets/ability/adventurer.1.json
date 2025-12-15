@@ -1,0 +1,23 @@
+{
+  "cost": {
+    "stamina": 10,
+    "mana": 0
+  },
+  "flags": [],
+  "onBegin": [
+    {
+      "op": "play_anim",
+      "params": [
+        "anim.attack0"
+      ]
+    },
+    {
+      "op": "wait_anim",
+      "params": [
+        "anim.attack0"
+      ]
+    }
+  ],
+  "onTick": [],
+  "onEnd": []
+}

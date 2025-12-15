@@ -1,0 +1,22 @@
+{
+  "type": "species",
+  "faction": "evil",
+  "flags": 0,
+  "class": "none",
+  "abilities": ["ability.beholder.0"],
+  "physics": {
+    "dynamic": false,
+    "max_vel": [150.0, 150.0],
+    "acc": [130.0, 130.0],
+    "dec": [1000.0, 1000.0],
+    "collider": {
+      "shape": "aabb",
+      "center": [0.0, 0.0],
+      "half_extents": [10.0, 3.0]
+    }
+  },
+  "anim_set": "animset.beholder",
+  "start_anim": "idle",
+  "sound_bank": null,
+  "collider_profile": "colprofile.beholder"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "trap_peaks",
+  "texture": "interactive",
+  "collider_profile": "animcolprofile.trap_peaks",
+  "default_anim": "idle_front",
+  "animations": [
+    {
+      "name": "idle_front",
+      "anim_tag": "idle",
+      "dir": "front",
+      "flags": ["loop", "ping_pong"],
+      "frames": [
+        {
+          "rect": [0, 0, 16, 16],
+          "source_size": [16, 16],
+          "offset": [0.5, 0.5],
+          "offset_flipped": [0.5, 0.5],
+          "duration": 0.25
+        },
+        {
+          "rect": [16, 0, 16, 16],
+          "source_size": [16, 16],
+          "offset": [0.5, 0.5],
+          "offset_flipped": [0.5, 0.5],
+          "duration": 0.25
+        },
+        {
+          "rect": [32, 0, 16, 16],
+          "source_size": [16, 16],
+          "offset": [0.5, 0.5],
+          "offset_flipped": [0.5, 0.5],
+          "duration": 0.25
+        },
+        {
+          "rect": [48, 0, 16, 16],
+          "source_size": [16, 16],
+          "offset": [0.5, 0.5],
+          "offset_flipped": [0.5, 0.5],
+          "duration": 0.25
+        }
+      ]
+    }
+  ],
+  "solved": [
+    {
+      "from": {
+        "anim_tag": "idle",
+        "dir": "left"
+      },
+      "to": {
+        "anim_tag": "idle",
+        "dir": "front"
+      },
+      "flip_policy": "dont_flip"
+    },
+    {
+      "from": {
+        "anim_tag": "idle",
+        "dir": "right"
+      },
+      "to": {
+        "anim_tag": "idle",
+        "dir": "front"
+      },
+      "flip_policy": "dont_flip"
+    },
+    {
+      "from": {
+        "anim_tag": "idle",
+        "dir": "back"
+      },
+      "to": {
+        "anim_tag": "idle",
+        "dir": "front"
+      },
+      "flip_policy": "dont_flip"
+    }
+  ]
+}
